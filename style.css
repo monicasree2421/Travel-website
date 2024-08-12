@@ -1,0 +1,402 @@
+body{
+    font-family:cursive !important;
+}
+#home{
+    background-color: rgb(158, 158, 158);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    
+}
+.navbar{
+    color: white;
+    box-shadow: 0px 5px 2px rgb(139, 139, 139);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.nav-link a{
+    color: white;
+}
+.content{
+    text-align: center;
+    padding-top: 200px;
+}
+.content button{
+    color: white;
+    border: none;
+    background-color: orange;
+    border-radius: 30px;
+    padding: 7px;
+    font-size: 20px;
+    padding-left: 50PX;
+    padding-right: 50px;
+}
+.ic .row{
+    margin-top: 130px !important;
+}
+.ic .row h6{
+    font-size: 10px !important;
+}
+.ic .row h5{
+    font-size: 15px !important;
+}
+.ic .col-1{
+    margin-left: 100px;
+}
+.ic .col-1 i{
+    margin-left: 70px;
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 10px;
+}
+#about
+{
+    text-align: center;
+    padding-top: 50px;
+}
+#about .m{
+    
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#cardCarousel
+{
+    margin-bottom: 150px;
+}
+.icon{
+    color: red !important;
+    text-align: left !important;
+    padding-left: 60px;
+}
+.icon i{
+    text-shadow: 1px 2px 3px orange;
+    padding-top: 20px; 
+   
+}
+.icon .fa-solid{
+    font-size: 30px;
+    text-align: left !important;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+#about h5{
+    padding-bottom:20px ;
+    padding-top: 20px;
+}
+#carouselExampleControls
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    box-shadow: 0px 5px 2px rgb(233, 233, 233);
+    padding: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#service input{
+    border: none;
+    width: 100px;
+}
+#service img{
+    text-align: center;
+}
+
+#service .col1{
+    background-image: url('https://i0.wp.com/travelgangtok.com/blog/wp-content/uploads/2023/12/Bangkok-Thailand.jpg?fit=741%2C481&ssl=1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-size: cover;
+   width: 200px;
+   height: 200px;
+}
+#service .r{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    margin-top: 10px;
+}
+.carousel-inner{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.c1{
+    width: 200px;
+    height: 200px;
+    background-image: url('https://i0.wp.com/travelgangtok.com/blog/wp-content/uploads/2023/12/Bangkok-Thailand.jpg?fit=741%2C481&ssl=1');
+    
+    background-position: center;
+    
+}
+.c2
+{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/640px-London_Skyline_%28125508655%29.jpeg');
+    width: 200px;
+    height: 200px;
+}
+.c3{
+    background-image: url('https://www.state.gov/wp-content/uploads/2023/07/shutterstock_590390942v2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.c4
+{
+    background-image: url('https://www.travelxp.com/_next/image?url=https%3A%2F%2Fimages.travelxp.com%2Fseo%2FThings_France_is_famous_for%2FFrance%2FThings_France_is_famous_for_header.jpeg&w=1920&q=75');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.c5{
+    background-image: url('https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+
+}
+.c6{
+    background-image: url('https://static2.tripoto.com/media/filter/tst/img/4335/TripDocument/1455120793_tui_india.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+}
+
+.r h1{
+    color: white;
+    padding-top: 20px;
+    font-size: 20px !important;
+}
+#service{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#blog{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#blog h1{
+    padding-top: 20px;
+}
+#blog .row{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+/* .col-6{
+    background-color: gray;
+    height: 300px !important;
+    
+} */
+.d{
+    height: 120px;
+    background-color: gray;
+}
+.g{
+    background-color: gray;
+    height: 215px;
+    width: 100%;
+    
+}
+.u{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 120px;
+    
+}
+.e{
+    background-color: gray;
+}
+
+.g,.u,.k,.j,.w{
+    box-shadow: 0px 5px 2px rgb(194, 193, 193);
+}
+.o{
+    margin-bottom: 30px;
+    padding-bottom:10px;
+}
+.j,.w{
+    height: 120px;
+    background-color: gray;
+}
+.w{
+    margin-bottom: 30px;
+}
+#blog button{
+    color: white;
+    border: none;
+    background-color: orange;
+    border-radius: 30px;
+    padding: 7px;
+    font-size: 20px;
+    padding-left: 50PX;
+    padding-right: 50px;
+}
+
+#client {
+    
+    /* background: linear-gradient(to bottom, #000428, #004683); */
+    animation: background-color 20s;
+    min-height: 100vh;
+    margin-top: 10px !important;
+}
+#client h1, #client h5{
+   color: black;
+}
+/* @keyframes background-color {
+    0% {
+        background: linear-gradient(to bottom, #000428, #004683);
+    }
+
+    25% {
+        background: linear-gradient(135deg, #1a4223, #5ee95e);
+    }
+
+    50% {
+        background: linear-gradient(to bottom, #421a31, #e95ed2);
+    }
+
+    100% {
+        background: linear-gradient(-135deg, #fae37d, #881da8, #20668f);
+    }
+
+} */
+
+#client .container {
+    margin-top: 80px;
+}
+
+#client .container .col-lg-4 {
+    display: flex;
+    justify-content: center;
+}
+
+#client .card {
+    width: 300px;
+    height: 300px;
+    transform-style: preserve-3d;
+    perspective: 500px;
+    border: none;
+    background-color: inherit;
+}
+
+#client .card .face {
+    position: absolute;
+    color: black;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.06);
+    transform-style: preserve-3d;
+    transition: 0.5s;
+    backface-visibility: hidden;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    /* border-right: 1px solid #999;
+border-bottom: 1px solid #999; */
+}
+
+#client .card .face.front-face,
+#client .card .face.back-face {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#client .card .face.front-face .profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#client .card .face.front-face .name {
+    letter-spacing: 2px;
+}
+
+#client .card .face.front-face .designation {
+    font-size: 0.8rem;
+    color: black;
+    letter-spacing: 0.8px;
+}
+
+#client .card:hover .face.front-face {
+    transform: rotateY(180deg);
+}
+
+#client .card .face.back-face {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.06);
+    transform: rotateY(180deg);
+    padding: 20px 30px;
+    text-align: center;
+    user-select: none;
+}
+
+#client .card .face.back-face .fa-quote-left {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    font-size: 1.2rem;
+}
+
+#client .card .face.back-face .fa-quote-right {
+    position: absolute;
+    bottom: 35px;
+    right: 25px;
+    font-size: 1.2rem;
+}
+
+#client .card:hover .face.back-face {
+    transform: rotateY(360deg);
+}
+
+@media(max-width: 991.5px) {
+    .col-lg-4 {
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+}
+#contact #con{
+    box-shadow: 0px 3px 0px rgb(168, 168, 168);
+}
+.dis{
+    padding: 80px;
+    background-color: orange;
+    color: white;
+    display: flex;
+    padding-left: 250px;
+}
+.dis button{
+    color: white;
+    border: 1px solid white;
+    background-color: orange;
+    border-radius: 30px;
+    padding: 7px;
+    font-size: 20px;
+    padding-left: 50PX;
+    padding-right: 50px;
+    margin-left: 100px;
+}
+.col-md-3 a{
+    text-decoration: none;
+    color: black;
+}
+.col-md-3 a:hover{
+    color: orange;
+}
